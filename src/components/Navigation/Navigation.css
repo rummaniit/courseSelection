@@ -1,0 +1,13 @@
+.nav {
+    background-color: black;
+    padding: 35px;
+}
+
+.navlink {
+    text-decoration: none;
+    background-color: brown;
+    padding: 35px;
+    margin: 25px;
+    color: white;
+    font-weight: 700;
+}

@@ -1,0 +1,14 @@
+.showfromhomecss {
+    background-color: brown;
+    margin: 15px;
+    padding: 25px;
+    text-align: center;
+}
+
+.btn {
+    background-color: goldenrod;
+    border: none;
+    padding: 25px;
+    color: white;
+    cursor: pointer;
+}
